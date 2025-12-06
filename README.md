@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
-<a href="https://github.com/Aman96-star/Aman96-star/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://github.com/Aman96-star/Aman96-star/blob/main/KIROKAZE.gif">
+  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/KIROKAZE.gif" alt="KIROKAZE GIF" style="display:block; margin:0 auto; width:auto; height:auto;"/>
 </a>
 
 <!-- add a bages to my profile -->
