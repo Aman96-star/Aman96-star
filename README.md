@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
-<a href="https://github.com/Aman96-star/Aman96-star/blob/main/KIROKAZE.gif">
-  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/KIROKAZE.gif" alt="KIROKAZE GIF" style="display:block; margin:0 auto; width:auto; height:auto;"/>
+<a href="https://github.com/Aman96-star/Aman96-star/blob/main/SDE-1.png">
+  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/SDE-1.png" alt="SDE-1.png" style="display:block; margin-left:0 auto; width:auto; height:auto;"/>
 </a>
 
 <!-- add a bages to my profile -->
@@ -113,6 +113,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
+
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
@@ -228,23 +229,21 @@
 
 
 <!-- support -->
-<h3 align="center">Support Me 💰 </h3>
+<!-- <h3 align="center">Support Me 💰 </h3>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
+  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a> -->
+
 </p>
 
 
-<!--<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
-</h1>-->
 
 
 
 <!-- ending-->
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+ <img src="https://github.com/Aman96-star/Aman96-star/blob/main/KIROKAZE.gif" alt="KIROKAZE GIF" style="display:block; margin:0 auto; width:auto; height:auto;"/>
+</a>
+<!-- <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/KIROKAZE.gif"><img src="https://github.com/Aman96-star/Wall-E-Desk/blob/main/Pixel-Art-2/KIROKAZE.gif" alt="KIROKAZE.gif" style="width:auto; height:auto"/></a> -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
