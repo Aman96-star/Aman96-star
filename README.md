@@ -1,7 +1,7 @@
 
 <!-- MasterHead -->
-<a href="https://github.com/Aman96-star/Aman96-star/blob/main/SDE-1.png">
-  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/SDE-1.png" alt="SDE-1.png" style="display:block; margin-left:0 auto; width:auto; height:auto;"/>
+<a href="https://github.com/Aman96-star/Aman96-star/blob/main/Mian.png">
+  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/Mian.png" alt="SDE-1.png" style="display:block; margin-left:0 auto; width:auto; height:auto;"/>
 </a>
 
 <!-- add a bages to my profile -->
