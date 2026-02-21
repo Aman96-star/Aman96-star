@@ -48,13 +48,13 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
- 🌱- I’m currently working on Portfolio</br>
- ✨- I’m currently learning Next.js, Tailwind CSS, TypeScript</br>
+ 🌱- I’m currently working on Java</br>
+ ✨- I’m currently learning core Java, Advanced java concept, Spring framework, Next.js, Tailwind CSS, TypeScript</br>
  🔭 "Built responsive, SEO-friendly, and high-performance web applications
       using Next.js with SSR and API integration."</br>
  📝 I regularly write articles on https://medium.com/@amn24</br>
  💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in AI/ML, Data Science, Automation, BlockChain development, Software Development.</br>
+ ⚡ Interest in AI/ML, Data Science, Automation, Blockchain development, Software Development.</br>
  ✨ Measure success in commits, not lines of code.
  
  <div align="left"> 
