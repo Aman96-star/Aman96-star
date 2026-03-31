@@ -37,16 +37,13 @@
 
     
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="400" src="https://github.com/Aman96-star/Aman96-star/blob/main/transparent_gitgif.gif">
+<img align="right" alt="coding-gif" width="400" src="https://github.com/Aman96-star/Aman96-star/blob/main/gif.jpg">
 
 
 <!-- about me -->
  <h3 align="left">💫 About Me</h3>
 
 
-
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
 <h4> 
  🌱- I’m currently working on Java</br>
  ✨- I’m currently learning core Java, Advanced java concept, Spring framework, Next.js, Tailwind CSS, TypeScript</br>
@@ -75,25 +72,20 @@
 </div>
 <br/>
 
-<!--Experence and experencing
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/Aman96-star/Aman96-star/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/Aman96-star/Aman96-star/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
-</div>-->
-
 
 
 <!-- git stat-->
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=Aman96-star&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Aman96-star&theme=nord&hide_border=false" alt="GitHub Streak Stats"><br/>
-
-  
-  
+ <!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman96-star&theme=dark&background=282828&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>  
 </div>
+
+<h3 align="center">🌱 Leetcode Status</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Amn0_24?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 <br/><br/>
 
@@ -197,17 +189,29 @@
 
 
 <!-- top repo and teck stack-->
-<div align="center">
-  <h3>⭐️ Best Repositories</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Aman96-star/Readly-Bookstore">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Readly-Bookstore&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-    <a href="https://github.com/Aman96-star/Parcel_app">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Parcel_app&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />    </a>
-    <a href="https://github.com/Aman96-star/Radiants_Roots">
-        <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Radiants_Roots&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" /></a>
-  
-</div>
+<h3 align="center">⭐️ Best Repositories</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Aman96-star/Readly-Bookstore">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Readly-Bookstore&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Aman96-star/Parcel_app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Parcel_app&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Aman96-star/Radiants_Roots">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Radiants_Roots&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
   
   <h3>💻 Tools </h3>
@@ -228,11 +232,6 @@
 
 
 
-<!-- support -->
-<!-- <h3 align="center">Support Me 💰 </h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a> -->
 
 </p>
 
