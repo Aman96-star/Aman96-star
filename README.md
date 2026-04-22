@@ -101,8 +101,7 @@ AI/ML • Data Science • Automation • Blockchain • Software Development<br
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
- <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman96-star&theme=dark&background=282828&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF"/>  
+  <img src="https://streak-stats.demolab.com?user=Aman96-star&theme=dark&background=282828&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
 </div>
 
 <h3 align="center">🌱 Leetcode Status</h3>
