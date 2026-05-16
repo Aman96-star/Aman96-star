@@ -186,6 +186,6 @@ AI/ML • Data Science • Automation • Blockchain • Software Development<br
        width="100%" />
 </p>
 
-<p align="center"><em>"It’s simply that it’s scary to take even one step forward... You don’t want to change so much that you’d be willing to sacrifice the pleasures you enjoy now."</em></p>
+<p align="center"><em>"But What if Everything Works out , Even better than I Imagined"</em></p>
 
 
