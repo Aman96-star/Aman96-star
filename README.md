@@ -57,7 +57,7 @@ Java • Spring Boot • Hibernate • MySQL • Next.js • TypeScript • Tail
 <a href="https://medium.com/@amn24">Medium Blog</a><br/><br/>
 
 💬 <b>Core Skills:</b><br/>
-Java • SQL • Python • REST APIs • OOP<br/><br/>
+Java • SQL • SpringBoot  • REST APIs • OOP<br/><br/>
 
 ⚡ <b>Interests:</b><br/>
 AI/ML • Data Science • Automation • Blockchain • Software Development<br/><br/>
