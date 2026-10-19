@@ -65,53 +65,46 @@
 
 
 
+
 <div align="center">
 
-# 💻 Tech Stack
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
+     width="100%"
+     alt="Animated divider" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,react,nextjs,js,ts,html,css,tailwind,bootstrap,mysql,python,git&theme=dark"
+     alt="Java, React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Bootstrap, MySQL, Python, Git" />
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,nextjs,js,ts,html,css,tailwind,bootstrap,mysql,python,git&theme=dark" />
+  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/KIROKAZE.gif"
+       alt="KIROKAZE GIF" />
 </p>
 
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
+       width="100%"
+       alt="Animated divider" />
+</p>
 
+<!-- <h3 align="center">⚙️ Tools</h3> -->
 
+<div align="center">
 
-  
-  <h3> ⚙️ Tools </h3>
-     <br/>
-  <div align="center">
- 
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
   <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  </div>
-  <div align="center"> 
-  </div>
+
+</div>
 
 
 
-
-
-
-</p>
-
-
-
-
-
-<!-- ending-->
-<p align="center">
-  <img src="https://github.com/Aman96-star/Aman96-star/blob/main/KIROKAZE.gif" 
-       alt="KIROKAZE GIF" />
-</p>
-
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
-       width="100%" />
-</p>
 
 
 
