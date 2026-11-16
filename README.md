@@ -1,23 +1,25 @@
 <!-- top repo and teck stack-->
 <h3 align="center">🤖 Best Repositories</h3>
 <!-- dkad -->
+
+
 <table align="center">
   <tr>
-    <td>
-      <a href="https://github.com/Aman96-star/Readly-Bookstore">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Readly-Bookstore&theme=dark" />
+    <td align="center">
+      <a href="https://github.com/Aman96-star/readly_bookstore">
+        <img src="https://img.shields.io/badge/Readly_Bookstore-Visit_Repository-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/Aman96-star/Parcel_app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Parcel_app&theme=dark" />
+        <img src="https://img.shields.io/badge/Parcel_App-Visit_Repository-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Aman96-star/Radiants_Roots">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman96-star&repo=Radiants_Roots&theme=dark" />
+        <img src="https://img.shields.io/badge/Radiants_Roots-Visit_Repository-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
   </tr>
