@@ -7,7 +7,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Aman96-star/readly_bookstore">
+      <a href="https://github.com/Aman96-star/Crud_enterprise-app">
         <img src="https://img.shields.io/badge/Readly_Bookstore-Visit_Repository-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
