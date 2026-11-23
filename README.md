@@ -7,9 +7,9 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/Aman96-star/Crud_enterprise-app">
-        <img src="https://img.shields.io/badge/Crud_enterprise-app-Visit_Repository-181717?style=for-the-badge&logo=github" />
-      </a>
+      <a href="https://github.com/Aman96-star/Readly-app">
+  <img src="https://img.shields.io/badge/Readly_App-Visit_Repository-181717?style=for-the-badge&logo=github" alt="Readly App Repository" />
+</a>
     </td>
     <td align="center">
       <a href="https://github.com/Aman96-star/Parcel_app">
